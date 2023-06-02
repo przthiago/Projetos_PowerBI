@@ -1,4 +1,4 @@
-### Oiii! Eu sou Thiago Perez 👋
+### Olá! Eu sou Thiago Perez 👋
 
 - 🔭 I’m currently estou mudando para área Banco de Dados
 - 🌱 I’m currently learning Python/SQL/AWS/Power BI
